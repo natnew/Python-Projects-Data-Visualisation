@@ -7,8 +7,8 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 ## Data - Business
 |Data  | Date  | Language|
 |------|------ |------ |
-[Millennial vs Baby Boomer Employment]()| January 2022 | Python
-[Employment Changes in Great Britain by Industry]()| January 2022 | Python
+[Millennial vs Baby Boomer Employment](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/EMSI_MillenialsvsBabyBoomers.xls)| January 2022 | Python
+[Employment Changes in Great Britain by Industry](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/EMSI_JobChange_UK.xlsx)| January 2022 | Python
 
 ## Data - Construction
 |Data  | Date  | Language|
@@ -38,17 +38,17 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 ## Data - Science
 |Data  | Date  | Language|
 |------|------ |------ |
-[CO2 Emissions by London Borough (2005-2014)]()| January 2022 | Python
-[Magnitude 6+ Earthquakes]()| January 2022 | Python
+[CO2 Emissions by London Borough (2005-2014)](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/carbon-emissions-borough.xls)| January 2022 | Python
+[Magnitude 6+ Earthquakes](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Mag6PlusEarthquakes_1900-2013.xlsx)| January 2022 | Python
 
 ## Data - Sports
 |Data  | Date  | Language|
 |------|------ |------ |
-[Wimbledon Champions]()| January 2022 | Python
-[Tour de France Statistics]()| January 2022 | Python
+[Wimbledon Champions](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/wimbledons_champions.csv)| January 2022 | Python
+[Tour de France Statistics](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/tour_de_france.xlsx)| January 2022 | Python
 
 ## Data - Technology
 |Data  | Date  | Language|
 |------|------ |------ |
-[Mobile OS Usage]()| January 2022 | Python
-[Startup Venture Funding]()| January 2022 | Python
+[Mobile OS Usage](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile_os_usage.csv)| January 2022 | Python
+[Startup Venture Funding](https://github.com/natnew/Python-Projects-Data-Visualisation)| January 2022 | Python
