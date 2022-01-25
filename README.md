@@ -50,8 +50,8 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 ## Data - Technology
 |Data  | Date  | Language| Notebook |
 |------|------ |------ |------ |
-[Mobile OS Usage](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile_os_usage.csv)| January 2022 | Python | [Notebook]() |
-[Startup Venture Funding](https://github.com/natnew/Python-Projects-Data-Visualisation)| January 2022 | Python | [Notebook]() |
+[Mobile OS Usage](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile_os_usage.csv)| January 2022 | Python | [Notebook](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Data_Visualisation_Mobile_Phone_Usage.ipynb) |
+[Startup Venture Funding](https://github.com/natnew/Python-Projects-Data-Visualisation)| January 2022 | Python | 
 
 ## Projects
 ![Mobile usages](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile%20usage.png)
