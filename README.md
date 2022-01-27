@@ -9,6 +9,8 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 |------|------ |------ |------ |
 [Millennial vs Baby Boomer Employment](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/EMSI_MillenialsvsBabyBoomers.xls)| January 2022 | Python
 [Employment Changes in Great Britain by Industry](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/EMSI_JobChange_UK.xlsx)| January 2022 | Python
+[Bookshop](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Bookshop.xlsx)| January 2022 | Python
+[Global Library](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Global%20Library%20Data.xlsx)| January 2022 | Python
 
 ## Data - Construction
 |Data  | Date  | Language| Notebook |
@@ -54,4 +56,6 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 [Startup Venture Funding](https://github.com/natnew/Python-Projects-Data-Visualisation)| January 2022 | Python | 
 
 ## Projects
-![Mobile usages](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile%20usage.png)
+### Mobie Usage Data Visualisation
+![Mobile usages](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/mobile%20usage.png)<br>
+
