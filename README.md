@@ -67,4 +67,6 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 [Reddit](https://www.reddit.com/r/datasets/)<br>
 [DirectGov](https://data.gov.uk/)<br>
 [Data.Gov](https://www.data.gov/)<br>
+[Yale University](https://guides.library.yale.edu/artsdatabases)<br>
+[George Washington University](https://libguides.gwu.edu/literaturedatabases)<br>
 
