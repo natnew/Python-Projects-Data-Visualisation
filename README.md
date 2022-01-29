@@ -30,6 +30,7 @@ More resources can be found here: https://public.tableau.com/en-us/s/resources?q
 |------|------ |------ |------ |
 [Netflix Movies and TV Shows]()| January 2022 | Python
 [Eurovision 1998 to 2010]()| January 2022 | Python
+[Spotify Music]()| January 2022 | Python | [Notebook](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Visualise_Spotify_Music_.ipynb)
 
 ## Data - Government
 |Data  | Date  | Language| Notebook |
